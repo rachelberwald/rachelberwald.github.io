@@ -35,15 +35,3 @@ The Power of Pre-existing Beliefs: Impacts of Misinformation on Public Trust in 
   </li>
 </ol>
 
-
-# Example
-#     <li>
-# Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2024. “Preaching to the Choir: A Problem of Participatory Interventions.” Forthcoming, <i>Journal of Politics.</i> <br>
- # <div class="btn-group">
- #<div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/preaching.pdf">[paper]</a></small></div>  
- #&nbsp;&nbsp;
- #<div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/preaching_appendix.pdf">[appendix]</a></small></div>
-#&nbsp;&nbsp;
-#<div class="button" width="60" height="100"><small><a href = "https://doi.org/10.24433/CO.0479587.v1">[replication]</a></small></div>
-#</div>
-
