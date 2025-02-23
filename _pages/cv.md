@@ -1,16 +1,16 @@
 ---
 layout: page
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 4
 ---
 
-<a href="https://taraslough.github.io/assets/pdf/CV_web.pdf"  target="_blank"> [download cv]</a>
+<a href="https://github.com/rachelberwald/rachelberwald.github.io/blob/master/assets/pdf/Berwald_CV_Feb25.pdf"  target="_blank"> [download cv]</a>
 
 
 
- <object data="https://taraslough.github.io/assets/pdf/CV_web.pdf" type="application/pdf" width = "650px" height = "500px">
+ <object data="https://github.com/rachelberwald/rachelberwald.github.io/blob/master/assets/pdf/Berwald_CV_Feb25.pdf" type="application/pdf" width = "650px" height = "500px">
         <div>No online PDF viewer installed</div>
     </object>
     
