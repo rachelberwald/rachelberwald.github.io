@@ -21,3 +21,5 @@ social: false  # includes social icons at the bottom of the page; change to true
 I am a Ph.D. candidate in Political Science at UCLA. My research primarily focuses on political communication and political identity in Brazil.
 
 My dissertation works to understand how political identity shapes the ways in which people process information. Specifically, I plan to test whether decreasing political identity salience can increase individuals’ willingness to engage with misinformation correction activities. My other research interests include understanding how social media and WhatsApp influence and are influenced by political identity and how affect and emotions strengthen individuals’ (misinformed) beliefs.
+
+My email is rberwald[at]ucla.edu.
