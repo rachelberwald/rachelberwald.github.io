@@ -15,6 +15,6 @@ nav_order: 3
 	<li> <b>Introduction to Programming and Data Management </b><small>Fall 2022</small><br>
 	<small>Graduate methods course</small> </li>
 </ol>
-
+<br>
 <h3>Resources for Students</h3>
 <p> Sign up for office hours <a href="https://calendly.com/rberwald/office-hours-f24-clone">here.</a></p>
