@@ -17,17 +17,15 @@ nav_order: 2
  <div class="button" width="60" height="100"><small><a href = "http://rachelberwald.github.io/assets/pdf/election2022.pdf">[paper]</a></small></div> </li>
 
 </ol>
-
+<br>
 
 <h2 class="year">Public Facing Scholarship</h2>
 <ol>
-<li>
-“Interventions to Counter Polarization: Lessons from the Global North and Applications to the Global South”. (with Joshua Goetz, Dan Harker, Connor Warshauer, Sabrina Habchi, AP Turek, and Nikita Savin). Evidence for Governance and Politics (Berkeley, CA) September 2023. <br>
+<li> “Interventions to Counter Polarization: Lessons from the Global North and Applications to the Global South”. (with Joshua Goetz, Dan Harker, Connor Warshauer, Sabrina Habchi, AP Turek, and Nikita Savin). Evidence for Governance and Politics (Berkeley, CA) September 2023. <br>
    <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://rachelberwald.github.io/assets/pdf/Depolarization.pdf">[paper]</a></small></div>  </li>
 
-<li>
-“Cross–Party Program Approaches: An evidence review”. (with Paige Rumelt, Anoushka Chandarana, and Mariz Younan_ IRI (Washington, D.C.) August 2022. <br>
+<li> “Cross–Party Program Approaches: An evidence review”. (with Paige Rumelt, Anoushka Chandarana, and Mariz Younan_ IRI (Washington, D.C.) August 2022. <br>
    <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://rachelberwald.github.io/assets/pdf/Cross-party_Programs.pdf">[paper]</a></small></div>  </li>
 </ol>
