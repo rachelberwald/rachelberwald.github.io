@@ -12,7 +12,7 @@ nav_order: 3
 <ol>
 	<li> <b>Political Violence. </b> <small>Winter 2025</small> <br> </li>
 	<li> <b>World Politics. </b><small>Fall 2024, Spring 2023, Winter 2023</small><br></li>
-	<li> <b>Introduction to Programming and Data Management </b><small>Fall 2022</small><br>
+	<li> <b>Introduction to Programming and Data Management. </b><small>Fall 2022</small><br>
 	<small>Graduate methods course</small> </li>
 </ol>
 <br>
