@@ -27,10 +27,10 @@ The Power of Pre-existing Beliefs: Impacts of Misinformation on Public Trust in 
    <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://rachelberwald.github.io/assets/pdf/Depolarization.pdf">[paper]</a></small></div>  
 
-
+<li>
 “Cross–Party Program Approaches: An evidence review”. (with Paige Rumelt, Anoushka Chandarana, and Mariz Younan_ IRI (Washington, D.C.) August 2022.
    <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "http://rachelberwald.github.io/assets/pdf/Cross-party_programs.pdf">[paper]</a></small></div>  
+ <div class="button" width="60" height="100"><small><a href = "http://rachelberwald.github.io/assets/pdf/Cross-party_Programs.pdf">[paper]</a></small></div>  
 
   </li>
 </ol>
