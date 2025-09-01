@@ -7,6 +7,11 @@ nav: true
 nav_order: 3
 ---
 
+<h3 class="year">Instructor of Record at UCLA</h3>
+<ol>
+	<li> <b>World Politics. </b> <small>Summer 2025</small> <br> </li>
+</ol>
+<br>
 
 <h3 class="year">Teaching Assistant at UCLA</h3>
 <ol>
