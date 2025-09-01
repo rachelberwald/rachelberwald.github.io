@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="#">Ph.D. Candidate in Political Science, UCLA</a>
+subtitle: Ph.D. Candidate in Political Science, UCLA
 
 profile:
   align: right
