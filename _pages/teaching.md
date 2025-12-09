@@ -12,9 +12,15 @@ nav_order: 3
 	<li> <b>World Politics. </b> <small>Summer 2025</small> <br> </li>
 </ol>
 <br>
+<h3 class="year">Teaching Fellow at UCLA</h3>
+<ol>
+	<li> <b>Introduction to Comparative Politics. </b> <small>Fall 2025</small> <br> </li>
+</ol>
+<br>
 
 <h3 class="year">Teaching Assistant at UCLA</h3>
 <ol>
+	<li> <b>Introduction to Comparative Politics. </b> <small>Spring 2025</small> <br> </li>
 	<li> <b>Political Violence. </b> <small>Winter 2025</small> <br> </li>
 	<li> <b>World Politics. </b><small>Fall 2024, Spring 2023, Winter 2023</small><br></li>
 	<li> <b>Introduction to Programming and Data Management. </b><small>Fall 2022</small><br>
