@@ -8,11 +8,25 @@ nav: true
 nav_order: 2
 ---
 
+<h2 class="year">Peer Reviewed Publications</h2>
+<ol>
+    <li>
+        Berwald, Rachel. (Forthcoming). “The Power of Pre-existing Beliefs: How Misinformation and Vote Choice Influenced Public Trust in Brazil’s 2022 Presidential Election.” <em>Revista Latinoamericana de Opinión Pública.</em>
+ <br>
+        <a href="http://rachelberwald.github.io/assets/pdf/pre_existing_beliefs.pdf">[paper]</a> <a href="http://rachelberwald.github.io/assets/pdf/The_Power_of_Pre_existing_Beliefs_Appendices.pdf">[appendix]</a> 
+    </li>
+</ol>
+
 <h2 class="year">Working Papers</h2>
 <ol>
     <li>
-        The Power of Pre-existing Beliefs: Impacts of Misinformation on Public Trust in Brazil's 2022 Presidential Election <br>
-        <a href="http://rachelberwald.github.io/assets/pdf/pre_existing_beliefs.pdf">[paper]</a> <a href="http://rachelberwald.github.io/assets/pdf/The_Power_of_Pre_existing_Beliefs_Appendices.pdf">[appendix]</a> 
+        Teaching Beyond Partisanship: Using Pedagogy and AI for Media Literacy Interventions
+    </li>
+    <li>
+        The Salience of Political Identity in Brazil
+    </li>
+    <li>
+        Correcting Misinformation, but Sustaining Conclusions: The Role of Emotional and Partisan Attachments in Narrative Persistence (with Seonhye Noh)
     </li>
 </ol>
 
