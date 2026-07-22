@@ -12,7 +12,7 @@ nav_order: 2
 <ol>
     <li>
         The Power of Pre-existing Beliefs: Impacts of Misinformation on Public Trust in Brazil's 2022 Presidential Election <br>
-        <a href="http://rachelberwald.github.io/assets/pdf/election2022.pdf">[paper]</a>
+        <a href="http://rachelberwald.github.io/assets/pdf/pre_existing_beliefs.pdf">[paper]</a> <a href="http://rachelberwald.github.io/assets/pdf/The_Power_of_Pre_existing_Beliefs_Appendices.pdf">[appendix]</a> 
     </li>
 </ol>
 
