@@ -8,7 +8,7 @@ nav: true
 nav_order: 2
 ---
 
-<h2 class="year">Peer Reviewed Publications</h2>
+<h2 class="year">Peer-reviewed Publications</h2>
 <ol>
     <li>
         Berwald, Rachel. (Forthcoming). “The Power of Pre-existing Beliefs: How Misinformation and Vote Choice Influenced Public Trust in Brazil’s 2022 Presidential Election.” <em>Revista Latinoamericana de Opinión Pública.</em>
